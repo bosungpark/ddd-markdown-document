@@ -21,4 +21,6 @@ Bring Key Concepts Into Light
 - We discover that some of them play a key role in the design
 - First thing to discover implicit concepts is to listen to the language. If a key concept is missing from the puzzle, the others will have to replace its functionality. This will fatten up some objects, adding them behavior which is not supposed to be there. The clarity of the design will suffer
 - When building knowledge it is possible to run into contradiction. Some of the contradictions may not really contradictions, but different ways of seeing the same thing.
-- W
+- We should try to reconcile contradictions. Sometimes this brings to light important concepts.
+- An other obvious way of digging out model is to use domain literature.
+- Using Constraint also helps to make explicite and express an invariant
